@@ -1,0 +1,5 @@
+﻿1>------ Build started: Project: NewParserForm, Configuration: Debug Any CPU ------
+1>E:\GP\flowchart without scroll 27-12-17-20180130T123021Z-001\flowchart without scroll 27-12-17\FlowChart without Scroll\21-11-17\NewParserForm\Form1.cs(9,7,9,18): warning CS0105: The using directive for 'System.Text' appeared previously in this namespace
+1>E:\GP\flowchart without scroll 27-12-17-20180130T123021Z-001\flowchart without scroll 27-12-17\FlowChart without Scroll\21-11-17\NewParserForm\Form1.cs(10,7,10,29): warning CS0105: The using directive for 'System.Threading.Tasks' appeared previously in this namespace
+1>  NewParserForm -> E:\GP\flowchart without scroll 27-12-17-20180130T123021Z-001\flowchart without scroll 27-12-17\FlowChart without Scroll\21-11-17\NewParserForm\bin\Debug\NewParserForm.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
